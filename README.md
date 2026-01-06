@@ -13,7 +13,7 @@ cmake -S . -B build  <== -S refers source directory; . refers current directory;
          
 cmake --build build  <== creates executable path under build directory.
 
-# CMake commands
+# git commands
 git add .
 
 git commit -m "Your comment"
